@@ -1,0 +1,16 @@
+# dane (zbyt duże na git)
+data/*
+!data/.gitkeep
+
+# sekrety
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# system / IDE
+.DS_Store
+.vscode/
